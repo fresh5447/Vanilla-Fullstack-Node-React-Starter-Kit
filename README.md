@@ -55,13 +55,16 @@ Be sure to update the line in `server/server.js` to use your local DB
 
 `mongoose.connect('mongodb://localhost/__YOUR_DB__')`
 
+----
 
 ### Eslint
 
 Eslint is configured to lint `node` code under `server`, and `react` code under `client`. To modify the configuration head to `eslint.rc`
 
+----
+
 ### Custom Scripts
 
-There are a bunch of scripts to make your life easier, be sure to check em out!
+There are a bunch of scripts to make your life easier, be sure to check em out in any of the `package.json`s!
 
 
